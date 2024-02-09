@@ -1,3 +1,2 @@
 int i;
 float f;
-char ch;
