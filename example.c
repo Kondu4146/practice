@@ -1,6 +1,6 @@
 for(;;)
 {
-
+printf("hello");
 //////code
 
 }
