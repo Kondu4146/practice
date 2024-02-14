@@ -4,3 +4,4 @@ float f;
 char ch;
 hi;
 hello;
+printf("%d\n",i);
