@@ -1,3 +1,4 @@
+scanf("play a game");
 int i;
 float f;
 char ch;
