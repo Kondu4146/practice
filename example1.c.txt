@@ -4,3 +4,5 @@ char ch;
 hi;
 hello;
 good morning
+good evening
+good afternoon
