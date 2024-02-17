@@ -1,7 +1,7 @@
-scanf("play a game");
 int i;
 float f;
 char ch;
 hi;
+good morning;
 hello;
-printf("%d\n",i);
+good morning
