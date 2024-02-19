@@ -1,7 +1,0 @@
-strucure
-{
-int i;
-float f;
-char ch;
-double d;
-};
