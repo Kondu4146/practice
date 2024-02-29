@@ -5,3 +5,5 @@ hi;
 good morning;
 hello;
 good morning
+good evening
+good afternoon
