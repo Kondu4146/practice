@@ -1,5 +1,7 @@
 Hello
 Good Morning
+EVERY ONE
+
 int i;
 float f;
 char ch;
